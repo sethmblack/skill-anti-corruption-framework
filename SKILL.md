@@ -1,12 +1,10 @@
 ---
 name: anti-corruption-framework
-description: Design institutions that make corruption difficult, detectable, and costly.
-  Create independent enforcement mechanisms. Pay adequately to remove temptation.
-  Apply rules consistently at all levels, e...
+description: Design institutions that make corruption difficult, detectable, and costly. Create independent enforcement mechanisms. Pay adequately to remove temptation. Apply rules consistently at all levels, e...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - anti-corruption-framework
 - escalation
